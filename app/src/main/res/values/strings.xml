@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Android</string>
+    <string name="hello_user">Hello, Roth!</string>
+    <string name="ic_profile">PROFILE</string>
+    <string name="search">Search</string>
+
+    <string name="more">More</string>
+    <string name="account">Account</string>
+    <string name="chat">Chat</string>
+    <string name="course">Course</string>
+    <string name="home">Home</string>
+
+    // Login form
+    <string name="login_title">Login to your application</string>
+    <string name="login_button">Login</string>
+
+    // Profile form
+    <string name="name_major_generation">Sok Sao - ITE - G7</string>
+
+    <string name="year_1">Year 1</string>
+    <string name="year_2">Year 2</string>
+    <string name="year_3">Year 3</string>
+    <string name="year_4">Year 4</string>
+
+    <string name="semester_1">Semester 1</string>
+    <string name="semester_2">Semester 2</string>
+
+    <string name="java_program_1">Java Programing 1</string>
+    <string name="operation_system">Operation System</string>
+    <string name="mathematics">Mathematics</string>
+    <string name="data_structure">Data Structure</string>
+    <string name="mis">MIS</string>
+    <string name="web_development_1">Web Development 1</string>
+    <string name="mobile_app_dev_1">Mobile App Dev 1</string>
+    <string name="database_1">Database 1</string>
+    <string name="english_language">English Language</string>
+    <string name="web_development_2">Web Development 2</string>
+    <string name="python">Python</string>
+    <string name="network_engineering">Network Engineering</string>
+</resources>
